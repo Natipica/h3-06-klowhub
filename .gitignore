@@ -33,6 +33,7 @@ packages/api/.env
 packages/api/.env.local
 packages/api/dist/
 packages/api/.env.*.local
+packages/api/prisma/migrations/
 
 # Shared environment files
 packages/shared/.env
